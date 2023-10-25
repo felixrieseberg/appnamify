@@ -1,0 +1,25 @@
+{
+  "name": "appnamify",
+  "version": "1.0.0",
+  "description": "Filenamify but for Electron apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/felixrieseberg/appnamify.git"
+  },
+  "keywords": [
+    "electron"
+  ],
+  "author": "Felix Rieseberg <felix@felixrieseberg.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/felixrieseberg/appnamify/issues"
+  },
+  "homepage": "https://github.com/felixrieseberg/appnamify#readme",
+  "dependencies": {
+    "filenamify": "^6.0.0"
+  }
+}
